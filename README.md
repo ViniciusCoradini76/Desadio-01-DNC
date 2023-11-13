@@ -1,4 +1,4 @@
-# Desadio-01-DNC
+# landingPage-Arquitetura
 
 link site: https://dnc-desafio-01.netlify.app/
 
